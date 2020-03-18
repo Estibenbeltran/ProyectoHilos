@@ -9,15 +9,6 @@ package edu.unicundi;
  *
  * @author daiyd
  */
-public class Main {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        
-        Carrera carrera = new Carrera();
-        carrera.empezar();
-    }
+public class ComunEquipo {
     
 }
