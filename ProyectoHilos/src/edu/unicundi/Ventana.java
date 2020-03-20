@@ -38,7 +38,7 @@ public class Ventana extends javax.swing.JFrame {
         Jugar = new javax.swing.JButton();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
-        setTitle("Juego de Bolas");
+        setTitle("Corredores ");
         setResizable(false);
 
         TextoArriba.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
